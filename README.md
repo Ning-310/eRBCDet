@@ -11,7 +11,7 @@ The main requirements are listed below:
 * Scikit-learn 0.21
 * tensorflow 1.5.0
 
-## The description of CRCCP source codes
+## The description of eRBCDet source codes
 
 * DNN.py
 
