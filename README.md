@@ -32,3 +32,7 @@ The main requirements are listed below:
 * PLR.py
 
     The code is used for Penalized Logistic Regression (PLR) model training and pan-cancer model integration.
+
+* ROC.py
+
+    The code is used to illustrate the receiver operating characteristic (ROC) curve based on sensitivity and 1-specificity scores, and compute the AUC value.
